@@ -5,7 +5,7 @@
 
 ### Summary 
 
-After analysis of the provided data for 248 mice, treated with 9 different drug regiments and 1 placebo, we can drow conclusion that the mice which were treated with the Pymaceuticals’ drug of interest, Capomulin, have shown a good response against the other treatment regimens. Other drug regimen that had good results was Ramicane. The mice treated with the Capomulin and the Ramicane have shown reduction of the tumor size. 
+After analysis of the provided data for 248 mice, treated with 9 different drug regiments and 1 placebo, we can drow conclusion that the mice which were treated with the Pymaceuticals’ drug of interest, Capomulin, have shown a good response against the other treatment regimens. Other drug regimen that had good results was Ramicane. The mice treated with the Capomulin and the Ramicane have shown reduction of the tumor size. The corelation coefficient between mouse weight and average tumor volume for the Capomulin regimen is: 0.84.
 
 
 !['Tumor volume for each treatment group'](https://user-images.githubusercontent.com/122633144/227735930-870b4df0-a701-42cf-955f-ca038343c4c5.png)
